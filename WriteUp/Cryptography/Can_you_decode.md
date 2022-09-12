@@ -7,7 +7,7 @@ We have three files to solve this challenge. The flag was divided into 3 parts i
 
 ##  Challenge File:
 
-You can download the challenge file from [HERE](https://github.com/cybsecsid/MriirsCTF/raw/main/WriteUp/Cryptography.zip)
+You can download the challenge file from [HERE](https://github.com/ashtrace/MriirsCTF/raw/main/WriteUp/Cryptography/Cryptography.zip)
 
 ## Encrypted1 (Audio File):
 

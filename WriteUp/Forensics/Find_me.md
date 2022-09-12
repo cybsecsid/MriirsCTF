@@ -5,7 +5,7 @@ We have a **‘.pcap’** file for this challenge. And we have find the login cr
 
 ##  Challenge File:
 
-You can download the challenge file from [HERE](https://github.com/cybsecsid/MriirsCTF/raw/main/WriteUp/Packet%20Analyser.pcap)
+You can download the challenge file from [HERE](https://github.com/ashtrace/MriirsCTF/raw/main/WriteUp/Forensics/Packet%20Analyser.pcap)
 
 
 
