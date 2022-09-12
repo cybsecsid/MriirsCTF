@@ -4,7 +4,7 @@ Image was given and the flag was hidden in the metadata.
 
 ##  Challenge File:
 
-You can download the challenge file from [HERE](https://github.com/cybsecsid/MriirsCTF/raw/main/WriteUp/Steganography/Stegano%201.jfif)
+You can download the challenge file from [HERE](https://github.com/ashtrace/MriirsCTF/raw/main/WriteUp/Steganography/Stegano%201.jfif)
 
 ## Writeup:
 

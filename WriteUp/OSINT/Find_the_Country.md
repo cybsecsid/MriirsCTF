@@ -5,7 +5,7 @@ A random image was given and we have to find the country.
 ## Challenge File
 
 
-[Downlaod](https://github.com/cybsecsid/MriirsCTF/blob/main/WriteUp/OSINT/Reverse%20Image%20Task%201.jpg)
+[Downlaod](https://github.com/ashtrace/MriirsCTF/blob/main/WriteUp/OSINT/Reverse%20Image%20Task%201.jpg)
 
 
 ## Writeup:

@@ -7,7 +7,7 @@ A random image was given and we have to find the country.
 Now for this image, we don’t find any results by directly by reverse searching the image in Google Images or Yandex Images or any other search engine. 
 To solve this, we need to read the image. In the banner we can see the name of the shop and their contact number (the contact number would be always unique)
 
-![App Screenshot](https://github.com/cybsecsid/CaptureMe/raw/main/WriteUp/OSINT/Reverse%20Image%20Task%202.png)
+![App Screenshot](https://github.com/ashtrace/CaptureMe/raw/main/WriteUp/OSINT/Reverse%20Image%20Task%202.png)
 
 
 
